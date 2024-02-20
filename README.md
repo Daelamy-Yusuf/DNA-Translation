@@ -40,4 +40,4 @@ Disclaimer:
 This script assumes that the input DNA sequences are valid and in the correct format. It does not perform any validation checks on the sequences.
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Daelamy-Yusuf/Translate-DNA/blob/main/LICENSE) file for details.
