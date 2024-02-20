@@ -9,7 +9,7 @@ Program's operation can be outlined as follows:
 6. **Counting the number of each type of amino acid**: Counting is done by creating a list where each type of amino acid starts from 0. Then create a loop using for where every same letter is read, it will increase by 1.
 7. **Printing the number of each amino acid**: First, create a list of names and letters of each amino acid and print the number of codons using len(), and create a loop using for which contains if the number of amino acids read is not the same as 0 then the number of amino acids will be printed to the terminal.
 
-**Output**: The translated protein sequences will be displayed in the terminal.
+**Output**: The translated protein sequences will be displayed in the terminal
 
 **The DNA sequence is:**
 >TTATTCTAATAAGTAATAATCAACGTAAAAATTAACAATATTAATAGAAATATAATTGATTATTTTTATTAATATAGTATTGTTAAATTGTATTATAGAACTGTATGATAAAGTTGTCTGCAT
