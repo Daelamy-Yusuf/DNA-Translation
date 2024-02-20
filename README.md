@@ -1,5 +1,6 @@
 # DNA to Amino Acid
-## This repository contains a Python script to translate DNA sequences into protein sequences. The translation is performed using the standard genetic code.
+## This repository houses a Python script designed to facilitate the translation of DNA sequences into their corresponding protein sequences. The translation process adheres to the standard genetic code, ensuring accuracy and reliability in the conversion.
+
 Program's operation can be outlined as follows:
 1. **Inputting DNA**: Users can input the DNA sequence to be converted. This input can be customized according to the user's needs, allowing input from a file or from the terminal.
 2. **Removing lines and spaces**: Create a new variable by removing lines and spaces from the previous variable using the replace() function and print it to the terminal.
